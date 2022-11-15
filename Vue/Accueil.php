@@ -2,7 +2,7 @@
 	<div class="container py-4">
 		<header class="pb-3 mb-4 border-bottom">
 			<a href="." class="d-flex align-items-center text-dark text-decoration-none">
-				<span class="fs-4">Générateur de QCM</span>
+				<span class="fs-4">Générateur de QCM XD</span>
 			</a>
 		</header>
 		
