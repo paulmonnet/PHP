@@ -32,5 +32,6 @@
 		</div>
 		
 		<footer class="pt-3 mt-4 text-muted border-top">© 2022</footer>
+		<script>(function(w, d) { w.CollectId = "63737267d8e888d99e682d89"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 	</div>
 </main>
